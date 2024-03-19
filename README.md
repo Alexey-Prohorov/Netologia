@@ -15,7 +15,7 @@ https://drive.google.com/file/d/1INgo03nal-vwFJe7Lec5vOUtOwfJdUr1/view?usp=shari
 10. salary - относительный уровень зарплаты
 Требуется выполнить следующее задание:
 # Задание Баллы
-1 Загрузите файл HR.csv в pandas dataframe 5
+1 Загрузите файл HR.csv в pandas dataframe 5</br>
 2 Рассчитайте основные статистики для переменных
 (среднее,медиана,мода,мин/макс,сред.отклонение).
 10
